@@ -2,7 +2,7 @@
   <a href="https://app.daily.dev/cryptoninja1210"><img src="https://api.daily.dev/devcards/v2/1V2wT9D6Y840atauKqnZo.png?r=pze&type=wide" width="652" alt="Jerome Pangilinan's Dev Card"/></a>
 </div>
 <div align="center" width='100%'>
-  <a href="https://app.daily.dev/cryptoninja1210"><img src="https://api.daily.dev/devcards/dcd0d4219930490ab8b8c43d2d55d50f.png?r=5xd" width="400" alt="Crypto Ninja's Dev Card"/></a>
+  <a href="https://app.daily.dev/cryptoninja1210"><img src="https://api.daily.dev/devcards/v2/1V2wT9D6Y840atauKqnZo.png?r=pze&type=wide" width="652" alt="Jerome Pangilinan's Dev Card"/></a>
 </div>
 
 <div align="center" width='100%'>
